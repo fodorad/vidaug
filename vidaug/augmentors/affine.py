@@ -17,7 +17,6 @@ List of augmenters:
 import numpy as np
 import numbers
 import random
-import scipy
 import PIL
 import cv2
 import skimage.transform
